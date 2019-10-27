@@ -1,0 +1,10 @@
+C:\Users\Ties\Documents\code\C#\WFCalculator\WFCalculator\bin\Debug\WFCalculator.exe.config
+C:\Users\Ties\Documents\code\C#\WFCalculator\WFCalculator\bin\Debug\WFCalculator.exe
+C:\Users\Ties\Documents\code\C#\WFCalculator\WFCalculator\bin\Debug\WFCalculator.pdb
+C:\Users\Ties\Documents\code\C#\WFCalculator\WFCalculator\obj\Debug\WFCalculator.csprojAssemblyReference.cache
+C:\Users\Ties\Documents\code\C#\WFCalculator\WFCalculator\obj\Debug\WFCalculator.Calculator.resources
+C:\Users\Ties\Documents\code\C#\WFCalculator\WFCalculator\obj\Debug\WFCalculator.Properties.Resources.resources
+C:\Users\Ties\Documents\code\C#\WFCalculator\WFCalculator\obj\Debug\WFCalculator.csproj.GenerateResource.cache
+C:\Users\Ties\Documents\code\C#\WFCalculator\WFCalculator\obj\Debug\WFCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Ties\Documents\code\C#\WFCalculator\WFCalculator\obj\Debug\WFCalculator.exe
+C:\Users\Ties\Documents\code\C#\WFCalculator\WFCalculator\obj\Debug\WFCalculator.pdb
